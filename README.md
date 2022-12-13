@@ -1,13 +1,13 @@
 <h2 align="center"> Hi 👋, my name is Samuel Nwoye </h2>
 
-<h4 align="center"> DevSecOps Infrastructure Engineer | Kubernetes Certified Security Specialist | HashiCorp Ambassador  </h4>
+<h4 align="center"> DevSecOps Infrastructure Engineer | Certified Kubernetes Security Specialist | HashiCorp Ambassador  </h4>
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=knoxknot&show_icons=true&theme=transparent)
 
 🌱 I’m currently learning pentration testing techniques.  
 💡 I like to explore new technologies.  
 👯 I’m looking to collaborate with like minds in building systems beneficial to humans.  
-✍️ During my leisure, I take a nap ☺️.  
+✍️ During my leisure, I take a nap 😄.  
 
 #### Current Go-to Stack 😎
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
