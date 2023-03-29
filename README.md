@@ -2,8 +2,6 @@
 
 <h4 align="center"> DevSecOps Infrastructure Engineer | Certified Kubernetes Security Specialist | HashiCorp Ambassador  </h4>
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=knoxknot&show_icons=true&theme=transparent)
-
 🌱 I’m currently learning pentration testing techniques.  
 💡 I like to explore new technologies.  
 👯 I’m looking to collaborate with like minds in building systems beneficial to humans.  
