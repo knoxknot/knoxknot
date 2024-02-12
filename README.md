@@ -1,6 +1,6 @@
 <h2 align="center"> Hi 👋, my name is Samuel Nwoye </h2>
 
-<h4 align="center"> DevSecOps Infrastructure Engineer | Certified Kubernetes Security Specialist | HashiCorp Ambassador  </h4>
+<h4 align="center"> DevSecOps Infrastructure Engineer </h4>
 
 🌱 I’m currently learning pentration testing techniques.  
 💡 I like to explore new technologies.  
